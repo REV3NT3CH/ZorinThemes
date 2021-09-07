@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=PURPL3
+Comment=A black, purple and transparent theme for Zorin 17
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=PURPL3
+MetacityTheme=PURPL3
+IconTheme=ACYLS
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=T0X1C
+Comment=A black, green and transparent theme for Zorin 17
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=T0X1C
+MetacityTheme=T0X1C
+IconTheme=ACYLS
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=N4710N
+Comment=A black, silver and transparent theme for Zorin 17
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=N4710N
+MetacityTheme=N4710N
+IconTheme=ACYLS
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close

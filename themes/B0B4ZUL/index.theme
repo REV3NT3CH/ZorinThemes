@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=B0B4ZUL
+Comment=A black, bright neon blue and transparent theme for Zorin 17
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=B0B4ZUL
+MetacityTheme=B0B4ZUL
+IconTheme=ACYLS
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close
