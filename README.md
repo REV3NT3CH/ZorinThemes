@@ -58,9 +58,9 @@ At this point you can then set and apply the colors and designs for the icons (T
 - 0RCH1D: #6494EE
 - B0B4ZUL: #00FFF5
 - N4710N: #C0C0C0
-- PURPL3: #800080
+- PURPL3: #900090
 - R3VR3D: #DC0000
-- T0X1C: #00C850
+- T0X1C: #61DE2A
 
 Once finished selecting the styles and colors you can now close out of this program.
 
@@ -86,12 +86,14 @@ sudo update-initramfs -u
 
 Zorin Appearance > Themes > Other.
 
+After Applying the theme it is recommended to run Alt + F2 to run a command then type the letter r and press enter to refresh the desktop environment
+
 ## Screenshots
 
 Screenshots can be found <a href="https://github.com/REV3NT3CH/ZorinThemes/blob/master/screenshots/screenshots.md">here</a>
 
 ## Credits & Thanks
-Credits to the Zorin team for the ZorinGrey-Dark theme, Grub theme and Plymouth theme I based this off of found here https://github.com/ZorinOS/zorin-desktop-themes 
+Credits to the Zorin team for the Zorin-Dark themes, Grub theme and Plymouth theme I based this off of found here https://github.com/ZorinOS/zorin-desktop-themes 
 
 Credits to realmazharhussain for the gdm tools used in the instructions and can be found here https://github.com/realmazharhussain/gdm-tools
 

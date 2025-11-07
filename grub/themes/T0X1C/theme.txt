@@ -19,8 +19,8 @@
 
 # Global Property
 title-text: ""
-title-color: "#00c850"
-message-color: "#00c850"
+title-color: "#61de2a"
+message-color: "#61de2a"
 message-bg-color: "#000000"
 desktop-image: "background.png"
 desktop-color: "#000000"
@@ -37,8 +37,8 @@ terminal-border: "0"
 		width = 480
 		top = 20%
 		height = 60%
-		item_color = "#00c850"
-		selected_item_color = "#00c850"
+		item_color = "#61de2a"
+		selected_item_color = "#61de2a"
 		item_height = 48
 		item_padding = 8
 		item_spacing = 8

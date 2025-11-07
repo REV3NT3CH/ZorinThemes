@@ -17,8 +17,8 @@ Transition=none
 TransitionDuration=0.0
 BackgroundStartColor=0x000000
 BackgroundEndColor=0x000000
-ProgressBarBackgroundColor=0x400040
-ProgressBarForegroundColor=0x800080
+ProgressBarBackgroundColor=0x600060
+ProgressBarForegroundColor=0x900090
 DialogClearsFirmwareBackground=false
 MessageBelowAnimation=true
 
